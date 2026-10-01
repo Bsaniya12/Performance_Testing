@@ -1,0 +1,4 @@
+username,password,firstName,lastName,email,phone,address1,address2,city,state,zip,country
+ifra,123,ifra,anjum,ifra@gmail.com,123456,ghar,home,ballari,karnataka,123,india
+preeti,456,preeti,m,preeti@gmail.com,67890,ghar,home,ballari,karnataka,123,india
+divya,789,divya,meghi,divya@gmail.com,45673,ghar,home,ballari,karnataka,123,india
